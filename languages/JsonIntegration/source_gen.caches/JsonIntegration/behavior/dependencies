@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="JsonIntegration.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonArray_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonFalse_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonFile_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonInteger_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonNull_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonObject_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonProperty_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonRealNumber_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonString_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.JsonTrue_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.ParsingError_BehaviorDescriptor" />
+    <classNode dependClassName="JsonIntegration.behavior.TextFile_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonArray_BehaviorDescriptor" file="JsonArray_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonBoolean_BehaviorDescriptor" file="JsonBoolean_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" file="JsonElement_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonFalse_BehaviorDescriptor" file="JsonFalse_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonBoolean_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonFile_BehaviorDescriptor" file="JsonFile_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonInteger_BehaviorDescriptor" file="JsonInteger_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonNull_BehaviorDescriptor" file="JsonNull_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonObject_BehaviorDescriptor" file="JsonObject_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonProperty_BehaviorDescriptor" file="JsonProperty_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonRealNumber_BehaviorDescriptor" file="JsonRealNumber_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonString_BehaviorDescriptor" file="JsonString_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.JsonTrue_BehaviorDescriptor" file="JsonTrue_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonBoolean_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.ParsingError_BehaviorDescriptor" file="ParsingError_BehaviorDescriptor.java">
+    <classNode dependClassName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JsonIntegration.behavior.TextFile_BehaviorDescriptor" file="TextFile_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

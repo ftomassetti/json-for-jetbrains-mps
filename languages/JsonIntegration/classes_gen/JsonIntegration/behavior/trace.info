@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="JsonIntegration.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="JsonArray_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonArray_BehaviorDescriptor" />
+  <unitInfo fileName="JsonBoolean_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonBoolean_BehaviorDescriptor" />
+  <unitInfo fileName="JsonElement_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="JsonIntegration.behavior.JsonElement_BehaviorDescriptor" />
+  <unitInfo fileName="JsonFalse_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonFalse_BehaviorDescriptor" />
+  <unitInfo fileName="JsonFile_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="JsonIntegration.behavior.JsonFile_BehaviorDescriptor" />
+  <unitInfo fileName="JsonInteger_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonInteger_BehaviorDescriptor" />
+  <unitInfo fileName="JsonNull_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonNull_BehaviorDescriptor" />
+  <unitInfo fileName="JsonObject_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonObject_BehaviorDescriptor" />
+  <unitInfo fileName="JsonProperty_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="JsonIntegration.behavior.JsonProperty_BehaviorDescriptor" />
+  <unitInfo fileName="JsonRealNumber_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonRealNumber_BehaviorDescriptor" />
+  <unitInfo fileName="JsonString_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonString_BehaviorDescriptor" />
+  <unitInfo fileName="JsonTrue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.JsonTrue_BehaviorDescriptor" />
+  <unitInfo fileName="ParsingError_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JsonIntegration.behavior.ParsingError_BehaviorDescriptor" />
+  <unitInfo fileName="TextFile_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="JsonIntegration.behavior.TextFile_BehaviorDescriptor" />
+</debugInfo>
+

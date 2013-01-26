@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="nter" modelUID="r:2daad1a7-9990-448f-a9bd-a1e9b241a662(JsonIntegration.structure)" version="-1" />
+    </dependencies>
+    <rename id="nter.7849985987275185937" type="CHILD" from="elements" to="root" />
+  </StructureModification>
+</history>
+

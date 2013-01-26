@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="5658926317896915556" modelId="r:b00c7efe-dda4-4b09-832e-bb95bc736425(JsonIntegration.stubs)">
+    <nodeInfo nodeId="5658926317896915806" fileName="JsonModelDataSource.java" startLine="30" startPosition="67" endLine="31" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXTENSION" />
+    <nodeInfo nodeId="5658926317896915797" fileName="JsonModelDataSource.java" startLine="32" startPosition="0" endLine="33" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="dir" />
+    <nodeInfo nodeId="5658926317896915562" fileName="JsonModelDataSource.java" startLine="35" startPosition="63" endLine="36" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="5658926317896915564" fileName="JsonModelDataSource.java" startLine="36" startPosition="15" endLine="37" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915580" fileName="JsonModelDataSource.java" startLine="40" startPosition="48" endLine="41" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896915589" fileName="JsonModelDataSource.java" startLine="44" startPosition="30" endLine="45" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896915601" fileName="JsonModelDataSource.java" startLine="47" startPosition="57" endLine="48" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+    <nodeInfo nodeId="5658926317896915609" fileName="JsonModelDataSource.java" startLine="49" startPosition="7" endLine="50" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915617" fileName="JsonModelDataSource.java" startLine="51" startPosition="5" endLine="52" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896915628" fileName="JsonModelDataSource.java" startLine="55" startPosition="107" endLine="56" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896947603" fileName="JsonModelDataSource.java" startLine="59" startPosition="107" endLine="60" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915641" fileName="JsonModelDataSource.java" startLine="60" startPosition="40" endLine="61" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1917388763570847702" fileName="JsonModelDataSource.java" startLine="61" startPosition="59" endLine="62" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1917388763570847708" fileName="JsonModelDataSource.java" startLine="62" startPosition="158" endLine="63" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="670739112623743498" fileName="JsonModelDataSource.java" startLine="63" startPosition="158" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="670739112623739299" fileName="JsonModelDataSource.java" startLine="64" startPosition="0" endLine="65" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="670739112623743501" fileName="JsonModelDataSource.java" startLine="65" startPosition="25" endLine="66" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915657" fileName="JsonModelDataSource.java" startLine="68" startPosition="57" endLine="69" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+    <nodeInfo nodeId="5658926317896915665" fileName="JsonModelDataSource.java" startLine="70" startPosition="7" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896915666" fileName="JsonModelDataSource.java" startLine="71" startPosition="0" endLine="72" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896915696" fileName="JsonModelDataSource.java" startLine="72" startPosition="101" endLine="73" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915674" fileName="JsonModelDataSource.java" startLine="74" startPosition="11" endLine="75" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621435105" fileName="JsonModelDataSource.java" startLine="75" startPosition="49" endLine="76" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915719" fileName="JsonModelDataSource.java" startLine="77" startPosition="31" endLine="78" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915870" fileName="JsonModelDataSource.java" startLine="78" startPosition="28" endLine="79" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896915955" fileName="JsonModelDataSource.java" startLine="79" startPosition="103" endLine="80" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621435184" fileName="JsonModelDataSource.java" startLine="80" startPosition="78" endLine="81" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5066916194048055112" fileName="JsonModelDataSource.java" startLine="82" startPosition="29" endLine="83" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621435194" fileName="JsonModelDataSource.java" startLine="83" startPosition="28" endLine="84" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5066916194048055116" fileName="JsonModelDataSource.java" startLine="84" startPosition="103" endLine="85" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915878" fileName="JsonModelDataSource.java" startLine="85" startPosition="78" endLine="86" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915723" fileName="JsonModelDataSource.java" startLine="88" startPosition="5" endLine="89" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896915724" fileName="JsonModelDataSource.java" startLine="89" startPosition="0" endLine="90" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896947600" fileName="JsonModelDataSource.java" startLine="93" startPosition="57" endLine="94" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915735" fileName="JsonModelDataSource.java" startLine="94" startPosition="39" endLine="95" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896915746" fileName="JsonModelDataSource.java" startLine="97" startPosition="11" endLine="98" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621435078" fileName="JsonModelDataSource.java" startLine="98" startPosition="106" endLine="99" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915766" fileName="JsonModelDataSource.java" startLine="99" startPosition="28" endLine="100" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915774" fileName="JsonModelDataSource.java" startLine="101" startPosition="31" endLine="102" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896915781" fileName="JsonModelDataSource.java" startLine="104" startPosition="5" endLine="105" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896915789" fileName="JsonModelDataSource.java" startLine="108" startPosition="56" endLine="109" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896915599" fileName="JsonModelDataSource.java" startLine="46" startPosition="66" endLine="49" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5658926317896915655" fileName="JsonModelDataSource.java" startLine="67" startPosition="66" endLine="70" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5658926317896915558" fileName="JsonModelDataSource.java" startLine="34" startPosition="0" endLine="38" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="JsonModelDataSource#(Ljetbrains/mps/vfs/IFile;Ljetbrains/mps/project/structure/modules/ModuleReference;)V" />
+    <nodeInfo nodeId="5658926317896915575" fileName="JsonModelDataSource.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getFilesToListen#()Ljava/util/Collection;" />
+    <nodeInfo nodeId="5658926317896915619" fileName="JsonModelDataSource.java" startLine="54" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="loadDescriptor#(Ljetbrains/mps/project/IModule;Ljetbrains/mps/smodel/SModelFqName;)Ljetbrains/mps/smodel/persistence/def/DescriptorLoadResult;" />
+    <nodeInfo nodeId="5658926317896915783" fileName="JsonModelDataSource.java" startLine="107" startPosition="0" endLine="111" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasModel#(Ljetbrains/mps/smodel/SModelDescriptor;)Z" />
+    <nodeInfo nodeId="5658926317896915593" fileName="JsonModelDataSource.java" startLine="45" startPosition="17" endLine="51" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="5658926317896915744" fileName="JsonModelDataSource.java" startLine="96" startPosition="116" endLine="103" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="5658926317896915741" fileName="JsonModelDataSource.java" startLine="95" startPosition="42" endLine="104" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="5658926317896915585" fileName="JsonModelDataSource.java" startLine="43" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTimestamp#()J" />
+    <nodeInfo nodeId="5658926317896915672" fileName="JsonModelDataSource.java" startLine="73" startPosition="61" endLine="87" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="5658926317896915729" fileName="JsonModelDataSource.java" startLine="92" startPosition="0" endLine="107" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="saveModel#(Ljetbrains/mps/smodel/SModelDescriptor;)Z" />
+    <nodeInfo nodeId="5658926317896915649" fileName="JsonModelDataSource.java" startLine="66" startPosition="25" endLine="88" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="5658926317896915631" fileName="JsonModelDataSource.java" startLine="58" startPosition="0" endLine="92" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="loadSModel#(Ljetbrains/mps/project/IModule;Ljetbrains/mps/smodel/SModelDescriptor;Ljetbrains/mps/smodel/loading/ModelLoadingState;)Ljetbrains/mps/smodel/loading/ModelLoadResult;" />
+    <scopeInfo nodeId="5658926317896915579" fileName="JsonModelDataSource.java" startLine="40" startPosition="48" endLine="41" endPosition="48" />
+    <scopeInfo nodeId="5658926317896915600" fileName="JsonModelDataSource.java" startLine="47" startPosition="57" endLine="48" endPosition="17" />
+    <scopeInfo nodeId="5658926317896915627" fileName="JsonModelDataSource.java" startLine="55" startPosition="107" endLine="56" endPosition="38" />
+    <scopeInfo nodeId="5658926317896915656" fileName="JsonModelDataSource.java" startLine="68" startPosition="57" endLine="69" endPosition="17" />
+    <scopeInfo nodeId="5658926317896915770" fileName="JsonModelDataSource.java" startLine="101" startPosition="0" endLine="102" endPosition="28">
+      <varInfo nodeId="5658926317896915771" varName="e" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915773" fileName="JsonModelDataSource.java" startLine="101" startPosition="31" endLine="102" endPosition="28" />
+    <scopeInfo nodeId="5658926317896915788" fileName="JsonModelDataSource.java" startLine="108" startPosition="56" endLine="109" endPosition="96" />
+    <scopeInfo nodeId="5658926317896915561" fileName="JsonModelDataSource.java" startLine="35" startPosition="63" endLine="37" endPosition="20" />
+    <scopeInfo nodeId="5658926317896915673" fileName="JsonModelDataSource.java" startLine="74" startPosition="11" endLine="76" endPosition="38">
+      <varInfo nodeId="5658926317896915675" varName="is" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915745" fileName="JsonModelDataSource.java" startLine="97" startPosition="11" endLine="100" endPosition="19">
+      <varInfo nodeId="5658926317896915747" varName="os" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915558" fileName="JsonModelDataSource.java" startLine="34" startPosition="0" endLine="38" endPosition="3">
+      <varInfo nodeId="5658926317896915570" varName="file" />
+      <varInfo nodeId="5658926317896915572" varName="ref" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915575" fileName="JsonModelDataSource.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="5658926317896915598" fileName="JsonModelDataSource.java" startLine="46" startPosition="66" endLine="50" endPosition="48" />
+    <scopeInfo nodeId="5658926317896915619" fileName="JsonModelDataSource.java" startLine="54" startPosition="0" endLine="58" endPosition="0">
+      <varInfo nodeId="5658926317896915622" varName="module" />
+      <varInfo nodeId="5658926317896915624" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915715" fileName="JsonModelDataSource.java" startLine="77" startPosition="0" endLine="81" endPosition="61">
+      <varInfo nodeId="5658926317896915716" varName="e" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915718" fileName="JsonModelDataSource.java" startLine="77" startPosition="31" endLine="81" endPosition="61">
+      <varInfo nodeId="5658926317896915871" varName="error" />
+    </scopeInfo>
+    <scopeInfo nodeId="5066916194048055107" fileName="JsonModelDataSource.java" startLine="82" startPosition="0" endLine="86" endPosition="61">
+      <varInfo nodeId="5066916194048055108" varName="e" />
+    </scopeInfo>
+    <scopeInfo nodeId="5066916194048055110" fileName="JsonModelDataSource.java" startLine="82" startPosition="29" endLine="86" endPosition="61">
+      <varInfo nodeId="7539613791621435195" varName="error" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915783" fileName="JsonModelDataSource.java" startLine="107" startPosition="0" endLine="111" endPosition="0">
+      <varInfo nodeId="5658926317896915786" varName="descriptor" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915593" fileName="JsonModelDataSource.java" startLine="45" startPosition="17" endLine="51" endPosition="5">
+      <varInfo nodeId="5658926317896915593" varName="child" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915743" fileName="JsonModelDataSource.java" startLine="96" startPosition="116" endLine="103" endPosition="7" />
+    <scopeInfo nodeId="5658926317896915588" fileName="JsonModelDataSource.java" startLine="44" startPosition="30" endLine="52" endPosition="15">
+      <varInfo nodeId="5658926317896915590" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915741" fileName="JsonModelDataSource.java" startLine="95" startPosition="42" endLine="104" endPosition="5">
+      <varInfo nodeId="5658926317896915741" varName="tf" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915585" fileName="JsonModelDataSource.java" startLine="43" startPosition="0" endLine="54" endPosition="0" />
+    <scopeInfo nodeId="5658926317896915734" fileName="JsonModelDataSource.java" startLine="93" startPosition="57" endLine="105" endPosition="17">
+      <varInfo nodeId="5658926317896915736" varName="model" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915729" fileName="JsonModelDataSource.java" startLine="92" startPosition="0" endLine="107" endPosition="0">
+      <varInfo nodeId="5658926317896915732" varName="descriptor" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915654" fileName="JsonModelDataSource.java" startLine="67" startPosition="66" endLine="87" endPosition="7">
+      <varInfo nodeId="5658926317896915667" varName="root" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915649" fileName="JsonModelDataSource.java" startLine="66" startPosition="25" endLine="88" endPosition="5">
+      <varInfo nodeId="5658926317896915649" varName="child" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915640" fileName="JsonModelDataSource.java" startLine="59" startPosition="107" endLine="90" endPosition="66">
+      <varInfo nodeId="1917388763570847703" varName="lang1" />
+      <varInfo nodeId="1917388763570847709" varName="lang2" />
+      <varInfo nodeId="5658926317896915642" varName="m" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896915631" fileName="JsonModelDataSource.java" startLine="58" startPosition="0" endLine="92" endPosition="0">
+      <varInfo nodeId="5658926317896915636" varName="descriptor" />
+      <varInfo nodeId="5658926317896915634" varName="module" />
+      <varInfo nodeId="5658926317896915638" varName="state" />
+    </scopeInfo>
+    <unitInfo nodeId="5658926317896915556" fileName="JsonModelDataSource.java" startLine="30" startPosition="0" endLine="112" endPosition="0" unitName="JsonIntegration.stubs.JsonModelDataSource" />
+  </root>
+  <root nodeId="5658926317896916066" modelId="r:b00c7efe-dda4-4b09-832e-bb95bc736425(JsonIntegration.stubs)">
+    <nodeInfo nodeId="8157118008632168198" fileName="JsonPersistenceUtil.java" startLine="10" startPosition="34" endLine="11" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="STEREOTYPE" />
+    <nodeInfo nodeId="8157118008632168213" fileName="JsonPersistenceUtil.java" startLine="16" startPosition="69" endLine="17" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8157118008632168260" fileName="JsonPersistenceUtil.java" startLine="17" startPosition="29" endLine="18" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916071" fileName="JsonPersistenceUtil.java" startLine="18" startPosition="75" endLine="19" endPosition="132" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916089" fileName="JsonPersistenceUtil.java" startLine="12" startPosition="0" endLine="14" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="JsonPersistenceUtil#()V" />
+    <nodeInfo nodeId="5658926317896916067" fileName="JsonPersistenceUtil.java" startLine="15" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="refByModule#(Ljetbrains/mps/project/structure/modules/ModuleReference;)Ljetbrains/mps/smodel/SModelReference;" />
+    <scopeInfo nodeId="5658926317896916092" fileName="JsonPersistenceUtil.java" startLine="13" startPosition="32" endLine="13" endPosition="32" />
+    <scopeInfo nodeId="5658926317896916089" fileName="JsonPersistenceUtil.java" startLine="12" startPosition="0" endLine="14" endPosition="3" />
+    <scopeInfo nodeId="5658926317896916070" fileName="JsonPersistenceUtil.java" startLine="16" startPosition="69" endLine="19" endPosition="132">
+      <varInfo nodeId="8157118008632168214" varName="longName" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916067" fileName="JsonPersistenceUtil.java" startLine="15" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="5658926317896916086" varName="module" />
+    </scopeInfo>
+    <unitInfo nodeId="5658926317896916066" fileName="JsonPersistenceUtil.java" startLine="10" startPosition="0" endLine="22" endPosition="0" unitName="JsonIntegration.stubs.JsonPersistenceUtil" />
+  </root>
+  <root nodeId="5658926317896916099" modelId="r:b00c7efe-dda4-4b09-832e-bb95bc736425(JsonIntegration.stubs)">
+    <nodeInfo nodeId="5658926317896916100" fileName="JsonModelDescriptor.java" startLine="15" startPosition="109" endLine="16" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myModel" />
+    <nodeInfo nodeId="5658926317896916285" fileName="JsonModelDescriptor.java" startLine="16" startPosition="32" endLine="17" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myModule" />
+    <nodeInfo nodeId="5658926317896916288" fileName="JsonModelDescriptor.java" startLine="17" startPosition="27" endLine="18" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="isChanged" />
+    <nodeInfo nodeId="5658926317896916109" fileName="JsonModelDescriptor.java" startLine="20" startPosition="74" endLine="21" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="5658926317896916116" fileName="JsonModelDescriptor.java" startLine="21" startPosition="87" endLine="22" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916122" fileName="JsonModelDescriptor.java" startLine="22" startPosition="27" endLine="23" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916134" fileName="JsonModelDescriptor.java" startLine="26" startPosition="39" endLine="27" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896916138" fileName="JsonModelDescriptor.java" startLine="27" startPosition="31" endLine="28" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916143" fileName="JsonModelDescriptor.java" startLine="28" startPosition="27" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916144" fileName="JsonModelDescriptor.java" startLine="29" startPosition="0" endLine="30" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916148" fileName="JsonModelDescriptor.java" startLine="30" startPosition="19" endLine="31" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916152" fileName="JsonModelDescriptor.java" startLine="31" startPosition="22" endLine="32" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916154" fileName="JsonModelDescriptor.java" startLine="32" startPosition="26" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916162" fileName="JsonModelDescriptor.java" startLine="37" startPosition="29" endLine="38" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916164" fileName="JsonModelDescriptor.java" startLine="38" startPosition="32" endLine="39" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916168" fileName="JsonModelDescriptor.java" startLine="39" startPosition="96" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916169" fileName="JsonModelDescriptor.java" startLine="40" startPosition="0" endLine="41" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916177" fileName="JsonModelDescriptor.java" startLine="48" startPosition="32" endLine="49" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916183" fileName="JsonModelDescriptor.java" startLine="52" startPosition="30" endLine="53" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916191" fileName="JsonModelDescriptor.java" startLine="56" startPosition="41" endLine="57" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916195" fileName="JsonModelDescriptor.java" startLine="57" startPosition="22" endLine="58" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896947606" fileName="JsonModelDescriptor.java" startLine="61" startPosition="22" endLine="62" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916201" fileName="JsonModelDescriptor.java" startLine="62" startPosition="34" endLine="63" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916206" fileName="JsonModelDescriptor.java" startLine="63" startPosition="32" endLine="64" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916210" fileName="JsonModelDescriptor.java" startLine="64" startPosition="22" endLine="65" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916220" fileName="JsonModelDescriptor.java" startLine="68" startPosition="52" endLine="69" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="5658926317896916228" fileName="JsonModelDescriptor.java" startLine="73" startPosition="31" endLine="74" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916235" fileName="JsonModelDescriptor.java" startLine="78" startPosition="31" endLine="79" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916241" fileName="JsonModelDescriptor.java" startLine="82" startPosition="46" endLine="83" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916249" fileName="JsonModelDescriptor.java" startLine="87" startPosition="26" endLine="88" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916260" fileName="JsonModelDescriptor.java" startLine="88" startPosition="98" endLine="89" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1917388763570847715" fileName="JsonModelDescriptor.java" startLine="89" startPosition="39" endLine="90" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916265" fileName="JsonModelDescriptor.java" startLine="90" startPosition="0" endLine="91" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916272" fileName="JsonModelDescriptor.java" startLine="92" startPosition="5" endLine="93" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="104" startPosition="36" endLine="105" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="106" startPosition="5" endLine="107" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="111" startPosition="36" endLine="112" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="113" startPosition="5" endLine="114" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="103" startPosition="67" endLine="106" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="110" startPosition="74" endLine="113" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5658926317896916173" fileName="JsonModelDescriptor.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="lastChangeTime#()J" />
+    <nodeInfo nodeId="5658926317896916179" fileName="JsonModelDescriptor.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isChanged#()Z" />
+    <nodeInfo nodeId="5658926317896916212" fileName="JsonModelDescriptor.java" startLine="67" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="rename#(Ljetbrains/mps/smodel/SModelFqName;Z)V" />
+    <nodeInfo nodeId="5658926317896916237" fileName="JsonModelDescriptor.java" startLine="81" startPosition="0" endLine="85" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getCurrentModelInternal#()Ljetbrains/mps/smodel/SModel;" />
+    <nodeInfo nodeId="5658926317896916278" fileName="JsonModelDescriptor.java" startLine="96" startPosition="46" endLine="100" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916105" fileName="JsonModelDescriptor.java" startLine="19" startPosition="0" endLine="24" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="JsonModelDescriptor#(Ljetbrains/mps/project/IModule;LJsonIntegration/stubs/JsonModelDataSource;)V" />
+    <nodeInfo nodeId="5658926317896916185" fileName="JsonModelDescriptor.java" startLine="55" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setChanged#(Z)V" />
+    <nodeInfo nodeId="5658926317896916223" fileName="JsonModelDescriptor.java" startLine="71" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isReadOnly#()Z" />
+    <nodeInfo nodeId="5658926317896916230" fileName="JsonModelDescriptor.java" startLine="76" startPosition="0" endLine="81" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getModelFile#()Ljetbrains/mps/vfs/IFile;" />
+    <nodeInfo nodeId="5658926317896916247" fileName="JsonModelDescriptor.java" startLine="86" startPosition="42" endLine="92" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5658926317896916160" fileName="JsonModelDescriptor.java" startLine="36" startPosition="62" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="5658926317896916197" fileName="JsonModelDescriptor.java" startLine="60" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="save#()V" />
+    <nodeInfo nodeId="5658926317896916274" fileName="JsonModelDescriptor.java" startLine="95" startPosition="0" endLine="102" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLoadingState#()Ljetbrains/mps/smodel/loading/ModelLoadingState;" />
+    <nodeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="102" startPosition="0" endLine="109" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="check_wrvezs_a1a0#(Ljetbrains/mps/smodel/SModel;)V" />
+    <nodeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="109" startPosition="0" endLine="116" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="check_wrvezs_a3a0a0a0h0a#(Ljetbrains/mps/smodel/SModel;)V" />
+    <nodeInfo nodeId="5658926317896916159" fileName="JsonModelDescriptor.java" startLine="35" startPosition="25" endLine="43" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916243" fileName="JsonModelDescriptor.java" startLine="85" startPosition="0" endLine="95" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSModel#()Ljetbrains/mps/smodel/SModel;" />
+    <nodeInfo nodeId="5658926317896916157" fileName="JsonModelDescriptor.java" startLine="34" startPosition="52" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="5658926317896916155" fileName="JsonModelDescriptor.java" startLine="33" startPosition="0" endLine="45" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916130" fileName="JsonModelDescriptor.java" startLine="25" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="reloadFromDiskSafe#()V" />
+    <scopeInfo nodeId="5658926317896916176" fileName="JsonModelDescriptor.java" startLine="48" startPosition="32" endLine="49" endPosition="32" />
+    <scopeInfo nodeId="5658926317896916182" fileName="JsonModelDescriptor.java" startLine="52" startPosition="30" endLine="53" endPosition="21" />
+    <scopeInfo nodeId="5658926317896916219" fileName="JsonModelDescriptor.java" startLine="68" startPosition="52" endLine="69" endPosition="46" />
+    <scopeInfo nodeId="5658926317896916227" fileName="JsonModelDescriptor.java" startLine="73" startPosition="31" endLine="74" endPosition="17" />
+    <scopeInfo nodeId="5658926317896916234" fileName="JsonModelDescriptor.java" startLine="78" startPosition="31" endLine="79" endPosition="16" />
+    <scopeInfo nodeId="5658926317896916240" fileName="JsonModelDescriptor.java" startLine="82" startPosition="46" endLine="83" endPosition="19" />
+    <scopeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="104" startPosition="36" endLine="105" endPosition="49" />
+    <scopeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="111" startPosition="36" endLine="112" endPosition="34" />
+    <scopeInfo nodeId="5658926317896916190" fileName="JsonModelDescriptor.java" startLine="56" startPosition="41" endLine="58" endPosition="26" />
+    <scopeInfo nodeId="5658926317896916108" fileName="JsonModelDescriptor.java" startLine="20" startPosition="74" endLine="23" endPosition="26" />
+    <scopeInfo nodeId="5658926317896916161" fileName="JsonModelDescriptor.java" startLine="37" startPosition="29" endLine="41" endPosition="42" />
+    <scopeInfo nodeId="5658926317896916173" fileName="JsonModelDescriptor.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916179" fileName="JsonModelDescriptor.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916200" fileName="JsonModelDescriptor.java" startLine="61" startPosition="22" endLine="65" endPosition="26" />
+    <scopeInfo nodeId="5658926317896916212" fileName="JsonModelDescriptor.java" startLine="67" startPosition="0" endLine="71" endPosition="0">
+      <varInfo nodeId="5658926317896916217" varName="b" />
+      <varInfo nodeId="5658926317896916215" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916237" fileName="JsonModelDescriptor.java" startLine="81" startPosition="0" endLine="85" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916248" fileName="JsonModelDescriptor.java" startLine="87" startPosition="26" endLine="91" endPosition="90" />
+    <scopeInfo nodeId="5658926317896916277" fileName="JsonModelDescriptor.java" startLine="96" startPosition="46" endLine="100" endPosition="6" />
+    <scopeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="103" startPosition="67" endLine="107" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="110" startPosition="74" endLine="114" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916105" fileName="JsonModelDescriptor.java" startLine="19" startPosition="0" endLine="24" endPosition="3">
+      <varInfo nodeId="5658926317896916124" varName="module" />
+      <varInfo nodeId="5658926317896916126" varName="source" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916185" fileName="JsonModelDescriptor.java" startLine="55" startPosition="0" endLine="60" endPosition="0">
+      <varInfo nodeId="5658926317896916188" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916223" fileName="JsonModelDescriptor.java" startLine="71" startPosition="0" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916230" fileName="JsonModelDescriptor.java" startLine="76" startPosition="0" endLine="81" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916160" fileName="JsonModelDescriptor.java" startLine="36" startPosition="62" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916197" fileName="JsonModelDescriptor.java" startLine="60" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916246" fileName="JsonModelDescriptor.java" startLine="86" startPosition="42" endLine="93" endPosition="19" />
+    <scopeInfo nodeId="5658926317896916274" fileName="JsonModelDescriptor.java" startLine="95" startPosition="0" endLine="102" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916139" fileName="JsonModelDescriptor.java" startLine="102" startPosition="0" endLine="109" endPosition="0">
+      <varInfo nodeId="5658926317896916139" varName="checkedDotOperand" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916170" fileName="JsonModelDescriptor.java" startLine="109" startPosition="0" endLine="116" endPosition="0">
+      <varInfo nodeId="5658926317896916170" varName="checkedDotOperand" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916158" fileName="JsonModelDescriptor.java" startLine="35" startPosition="25" endLine="43" endPosition="11" />
+    <scopeInfo nodeId="5658926317896916243" fileName="JsonModelDescriptor.java" startLine="85" startPosition="0" endLine="95" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916157" fileName="JsonModelDescriptor.java" startLine="34" startPosition="52" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="5658926317896916133" fileName="JsonModelDescriptor.java" startLine="26" startPosition="39" endLine="45" endPosition="7">
+      <varInfo nodeId="5658926317896916135" varName="old" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916130" fileName="JsonModelDescriptor.java" startLine="25" startPosition="0" endLine="47" endPosition="0" />
+    <unitInfo nodeId="5658926317896916160" fileName="JsonModelDescriptor.java" startLine="36" startPosition="50" endLine="43" endPosition="9" unitName="JsonIntegration.stubs.JsonModelDescriptor$2" />
+    <unitInfo nodeId="5658926317896916157" fileName="JsonModelDescriptor.java" startLine="34" startPosition="40" endLine="45" endPosition="5" unitName="JsonIntegration.stubs.JsonModelDescriptor$1" />
+    <unitInfo nodeId="5658926317896916099" fileName="JsonModelDescriptor.java" startLine="15" startPosition="0" endLine="117" endPosition="0" unitName="JsonIntegration.stubs.JsonModelDescriptor" />
+  </root>
+  <root nodeId="6620170877680045562" modelId="r:b00c7efe-dda4-4b09-832e-bb95bc736425(JsonIntegration.stubs)">
+    <nodeInfo nodeId="85165454802800443" fileName="JsonMM.java" startLine="23" startPosition="85" endLine="24" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916305" fileName="JsonMM.java" startLine="24" startPosition="55" endLine="25" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896916312" fileName="JsonMM.java" startLine="25" startPosition="90" endLine="26" endPosition="159" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5658926317896916328" fileName="JsonMM.java" startLine="26" startPosition="159" endLine="27" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916371" fileName="JsonMM.java" startLine="30" startPosition="104" endLine="31" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896916385" fileName="JsonMM.java" startLine="33" startPosition="50" endLine="34" endPosition="89" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916396" fileName="JsonMM.java" startLine="39" startPosition="110" endLine="40" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5658926317896916403" fileName="JsonMM.java" startLine="40" startPosition="45" endLine="41" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916339" fileName="JsonMM.java" startLine="44" startPosition="44" endLine="45" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="19" startPosition="54" endLine="21" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="JsonMM#()V" />
+    <nodeInfo nodeId="5658926317896916383" fileName="JsonMM.java" startLine="32" startPosition="85" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SModelDescriptor;)Z" />
+    <nodeInfo nodeId="5658926317896916333" fileName="JsonMM.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRootDir#(Ljetbrains/mps/project/structure/model/ModelRoot;)Ljetbrains/mps/vfs/IFile;" />
+    <nodeInfo nodeId="5658926317896916386" fileName="JsonMM.java" startLine="48" startPosition="71" endLine="52" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5658926317896916378" fileName="JsonMM.java" startLine="31" startPosition="68" endLine="36" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="38" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createModel#(Ljetbrains/mps/project/IModule;Ljetbrains/mps/project/structure/model/ModelRoot;Ljetbrains/mps/smodel/SModelFqName;)Ljetbrains/mps/smodel/SModelDescriptor;" />
+    <nodeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="22" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="load#(Ljetbrains/mps/project/structure/model/ModelRoot;Ljetbrains/mps/project/IModule;)Ljava/util/Collection;" />
+    <nodeInfo nodeId="5658926317896916386" fileName="JsonMM.java" startLine="47" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="eq_ifas7o_a0a0a0a0a0a1a1#(Ljava/lang/Object;Ljava/lang/Object;)Z" />
+    <nodeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="29" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canCreateModel#(Ljetbrains/mps/project/IModule;Ljetbrains/mps/project/structure/model/ModelRoot;Ljetbrains/mps/smodel/SModelFqName;)Z" />
+    <scopeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="20" startPosition="19" endLine="20" endPosition="19" />
+    <scopeInfo nodeId="5658926317896916384" fileName="JsonMM.java" startLine="33" startPosition="50" endLine="34" endPosition="89" />
+    <scopeInfo nodeId="5658926317896916338" fileName="JsonMM.java" startLine="44" startPosition="44" endLine="45" endPosition="66" />
+    <scopeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="19" startPosition="54" endLine="21" endPosition="3" />
+    <scopeInfo nodeId="5658926317896840554" fileName="JsonMM.java" startLine="39" startPosition="110" endLine="41" endPosition="102">
+      <varInfo nodeId="5658926317896916397" varName="dir" />
+    </scopeInfo>
+    <scopeInfo nodeId="6620170877680045564" fileName="JsonMM.java" startLine="23" startPosition="85" endLine="27" endPosition="15">
+      <varInfo nodeId="5658926317896916306" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916383" fileName="JsonMM.java" startLine="32" startPosition="85" endLine="36" endPosition="0">
+      <varInfo nodeId="5658926317896916383" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916333" fileName="JsonMM.java" startLine="43" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="5658926317896916336" varName="root" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916386" fileName="JsonMM.java" startLine="48" startPosition="71" endLine="52" endPosition="6" />
+    <scopeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="38" startPosition="0" endLine="43" endPosition="0">
+      <varInfo nodeId="6620170877680045562" varName="fqName" />
+      <varInfo nodeId="6620170877680045562" varName="module" />
+      <varInfo nodeId="6620170877680045562" varName="root" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896840552" fileName="JsonMM.java" startLine="30" startPosition="104" endLine="36" endPosition="17">
+      <varInfo nodeId="5658926317896916372" varName="models" />
+    </scopeInfo>
+    <scopeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="22" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="6620170877680045562" varName="module" />
+      <varInfo nodeId="6620170877680045562" varName="root" />
+    </scopeInfo>
+    <scopeInfo nodeId="5658926317896916386" fileName="JsonMM.java" startLine="47" startPosition="0" endLine="54" endPosition="0">
+      <varInfo nodeId="5658926317896916386" varName="a" />
+      <varInfo nodeId="5658926317896916386" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="29" startPosition="0" endLine="38" endPosition="0">
+      <varInfo nodeId="6620170877680045562" varName="fqName" />
+      <varInfo nodeId="6620170877680045562" varName="module" />
+      <varInfo nodeId="6620170877680045562" varName="root" />
+    </scopeInfo>
+    <unitInfo nodeId="5658926317896916383" fileName="JsonMM.java" startLine="32" startPosition="51" endLine="36" endPosition="5" unitName="JsonIntegration.stubs.JsonMM$1" />
+    <unitInfo nodeId="6620170877680045562" fileName="JsonMM.java" startLine="19" startPosition="0" endLine="55" endPosition="0" unitName="JsonIntegration.stubs.JsonMM" />
+  </root>
+  <root nodeId="7539613791621388866" modelId="r:b00c7efe-dda4-4b09-832e-bb95bc736425(JsonIntegration.stubs)">
+    <nodeInfo nodeId="7539613791621394687" fileName="JsonIO.java" startLine="30" startPosition="76" endLine="31" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621394758" fileName="JsonIO.java" startLine="34" startPosition="71" endLine="35" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433700" fileName="JsonIO.java" startLine="35" startPosition="37" endLine="36" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433940" fileName="JsonIO.java" startLine="39" startPosition="44" endLine="40" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7712758234141631708" fileName="JsonIO.java" startLine="43" startPosition="63" endLine="44" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433984" fileName="JsonIO.java" startLine="44" startPosition="38" endLine="45" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433755" fileName="JsonIO.java" startLine="45" startPosition="41" endLine="46" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433749" fileName="JsonIO.java" startLine="47" startPosition="5" endLine="48" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434064" fileName="JsonIO.java" startLine="49" startPosition="87" endLine="50" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7712758234141631808" fileName="JsonIO.java" startLine="51" startPosition="117" endLine="52" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434328" fileName="JsonIO.java" startLine="52" startPosition="32" endLine="53" endPosition="133" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434293" fileName="JsonIO.java" startLine="54" startPosition="107" endLine="55" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7712758234141663468" fileName="JsonIO.java" startLine="56" startPosition="11" endLine="57" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434100" fileName="JsonIO.java" startLine="58" startPosition="9" endLine="59" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434135" fileName="JsonIO.java" startLine="59" startPosition="34" endLine="60" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434439" fileName="JsonIO.java" startLine="63" startPosition="5" endLine="64" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434446" fileName="JsonIO.java" startLine="65" startPosition="83" endLine="66" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434449" fileName="JsonIO.java" startLine="69" startPosition="5" endLine="70" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434452" fileName="JsonIO.java" startLine="71" startPosition="82" endLine="72" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434459" fileName="JsonIO.java" startLine="75" startPosition="5" endLine="76" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434466" fileName="JsonIO.java" startLine="77" startPosition="85" endLine="78" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434502" fileName="JsonIO.java" startLine="81" startPosition="5" endLine="82" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434509" fileName="JsonIO.java" startLine="83" startPosition="82" endLine="84" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434514" fileName="JsonIO.java" startLine="87" startPosition="5" endLine="88" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434521" fileName="JsonIO.java" startLine="89" startPosition="86" endLine="90" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7712758234141663512" fileName="JsonIO.java" startLine="91" startPosition="118" endLine="92" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434594" fileName="JsonIO.java" startLine="92" startPosition="32" endLine="93" endPosition="149" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434837" fileName="JsonIO.java" startLine="93" startPosition="149" endLine="94" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434538" fileName="JsonIO.java" startLine="94" startPosition="27" endLine="95" endPosition="176" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7712758234141663549" fileName="JsonIO.java" startLine="96" startPosition="108" endLine="97" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7712758234141663563" fileName="JsonIO.java" startLine="98" startPosition="11" endLine="99" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434561" fileName="JsonIO.java" startLine="100" startPosition="9" endLine="101" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621434566" fileName="JsonIO.java" startLine="101" startPosition="34" endLine="102" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434892" fileName="JsonIO.java" startLine="105" startPosition="5" endLine="106" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434901" fileName="JsonIO.java" startLine="107" startPosition="89" endLine="108" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621434908" fileName="JsonIO.java" startLine="111" startPosition="5" endLine="112" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621434917" fileName="JsonIO.java" startLine="113" startPosition="86" endLine="114" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433796" fileName="JsonIO.java" startLine="116" startPosition="5" endLine="117" endPosition="142" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="7539613791621433353" fileName="JsonIO.java" startLine="121" startPosition="50" endLine="122" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433366" fileName="JsonIO.java" startLine="124" startPosition="33" endLine="125" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433372" fileName="JsonIO.java" startLine="125" startPosition="49" endLine="126" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="127" startPosition="7" endLine="128" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="128" startPosition="107" endLine="129" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="130" startPosition="36" endLine="131" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433385" fileName="JsonIO.java" startLine="131" startPosition="38" endLine="132" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433391" fileName="JsonIO.java" startLine="132" startPosition="108" endLine="133" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433399" fileName="JsonIO.java" startLine="133" startPosition="72" endLine="134" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433408" fileName="JsonIO.java" startLine="134" startPosition="98" endLine="135" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433415" fileName="JsonIO.java" startLine="137" startPosition="7" endLine="138" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433422" fileName="JsonIO.java" startLine="140" startPosition="32" endLine="141" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433428" fileName="JsonIO.java" startLine="141" startPosition="47" endLine="142" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="143" startPosition="7" endLine="144" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="144" startPosition="78" endLine="145" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="146" startPosition="35" endLine="147" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433439" fileName="JsonIO.java" startLine="147" startPosition="36" endLine="148" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433447" fileName="JsonIO.java" startLine="150" startPosition="7" endLine="151" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433454" fileName="JsonIO.java" startLine="153" startPosition="36" endLine="154" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433481" fileName="JsonIO.java" startLine="160" startPosition="33" endLine="161" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433487" fileName="JsonIO.java" startLine="161" startPosition="40" endLine="162" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433493" fileName="JsonIO.java" startLine="162" startPosition="102" endLine="163" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433499" fileName="JsonIO.java" startLine="163" startPosition="58" endLine="164" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433505" fileName="JsonIO.java" startLine="164" startPosition="59" endLine="165" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433512" fileName="JsonIO.java" startLine="166" startPosition="33" endLine="167" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433518" fileName="JsonIO.java" startLine="167" startPosition="97" endLine="168" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433526" fileName="JsonIO.java" startLine="168" startPosition="62" endLine="169" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621433530" fileName="JsonIO.java" startLine="170" startPosition="14" endLine="171" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="7539613791621433543" fileName="JsonIO.java" startLine="173" startPosition="5" endLine="174" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+    <nodeInfo nodeId="7539613791621433614" fileName="JsonIO.java" startLine="178" startPosition="9" endLine="179" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433619" fileName="JsonIO.java" startLine="179" startPosition="29" endLine="180" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433627" fileName="JsonIO.java" startLine="180" startPosition="67" endLine="181" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433638" fileName="JsonIO.java" startLine="182" startPosition="28" endLine="183" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433642" fileName="JsonIO.java" startLine="183" startPosition="27" endLine="184" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621433648" fileName="JsonIO.java" startLine="184" startPosition="101" endLine="185" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621433656" fileName="JsonIO.java" startLine="185" startPosition="65" endLine="186" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7539613791621398644" fileName="JsonIO.java" startLine="190" startPosition="56" endLine="191" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621398664" fileName="JsonIO.java" startLine="195" startPosition="6" endLine="196" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621388868" fileName="JsonIO.java" startLine="26" startPosition="21" endLine="28" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="JsonIO#()V" />
+    <nodeInfo nodeId="7539613791621433528" fileName="JsonIO.java" startLine="170" startPosition="12" endLine="172" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434259" fileName="JsonIO.java" startLine="53" startPosition="133" endLine="56" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434439" fileName="JsonIO.java" startLine="64" startPosition="21" endLine="67" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434449" fileName="JsonIO.java" startLine="70" startPosition="21" endLine="73" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434459" fileName="JsonIO.java" startLine="76" startPosition="21" endLine="79" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434502" fileName="JsonIO.java" startLine="82" startPosition="21" endLine="85" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7712758234141663547" fileName="JsonIO.java" startLine="95" startPosition="176" endLine="98" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434892" fileName="JsonIO.java" startLine="106" startPosition="22" endLine="109" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434908" fileName="JsonIO.java" startLine="112" startPosition="23" endLine="115" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433351" fileName="JsonIO.java" startLine="120" startPosition="59" endLine="123" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621388872" fileName="JsonIO.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="save#(Ljetbrains/mps/smodel/SNode;Ljava/io/OutputStream;)V" />
+    <nodeInfo nodeId="7539613791621394094" fileName="JsonIO.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="toJson#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="145" startPosition="29" endLine="149" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="7539613791621433462" fileName="JsonIO.java" startLine="155" startPosition="27" endLine="159" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7539613791621398653" fileName="JsonIO.java" startLine="191" startPosition="56" endLine="195" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7539613791621394081" fileName="JsonIO.java" startLine="33" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="loadJsonFile#(Ljava/io/InputStream;Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7539613791621434439" fileName="JsonIO.java" startLine="62" startPosition="5" endLine="68" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434449" fileName="JsonIO.java" startLine="68" startPosition="5" endLine="74" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434459" fileName="JsonIO.java" startLine="74" startPosition="5" endLine="80" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434502" fileName="JsonIO.java" startLine="80" startPosition="5" endLine="86" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434892" fileName="JsonIO.java" startLine="104" startPosition="5" endLine="110" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621434908" fileName="JsonIO.java" startLine="110" startPosition="5" endLine="116" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="129" startPosition="49" endLine="136" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="7539613791621434167" fileName="JsonIO.java" startLine="50" startPosition="25" endLine="58" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ForStatement" />
+    <nodeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="142" startPosition="97" endLine="150" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621398640" fileName="JsonIO.java" startLine="189" startPosition="0" endLine="198" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="readString#(Ljava/io/InputStream;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7539613791621434526" fileName="JsonIO.java" startLine="90" startPosition="25" endLine="100" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ForStatement" />
+    <nodeInfo nodeId="7539613791621433607" fileName="JsonIO.java" startLine="177" startPosition="90" endLine="187" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="126" startPosition="98" endLine="137" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621433749" fileName="JsonIO.java" startLine="48" startPosition="25" endLine="61" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433420" fileName="JsonIO.java" startLine="139" startPosition="5" endLine="152" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433274" fileName="JsonIO.java" startLine="176" startPosition="0" endLine="189" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="loadJsonFileContentFromString#(Ljava/lang/String;Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7539613791621434514" fileName="JsonIO.java" startLine="88" startPosition="23" endLine="103" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433749" fileName="JsonIO.java" startLine="46" startPosition="26" endLine="62" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621433364" fileName="JsonIO.java" startLine="123" startPosition="5" endLine="139" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621434514" fileName="JsonIO.java" startLine="86" startPosition="5" endLine="104" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7539613791621433460" fileName="JsonIO.java" startLine="154" startPosition="54" endLine="172" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433452" fileName="JsonIO.java" startLine="152" startPosition="5" endLine="173" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7539613791621433555" fileName="JsonIO.java" startLine="119" startPosition="0" endLine="176" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="toJsonElement#(Lcom/google/gson/JsonElement;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="7539613791621433928" fileName="JsonIO.java" startLine="42" startPosition="0" endLine="119" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="nodeToJson#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="7539613791621388871" fileName="JsonIO.java" startLine="27" startPosition="19" endLine="27" endPosition="19" />
+    <scopeInfo nodeId="7539613791621388875" fileName="JsonIO.java" startLine="30" startPosition="76" endLine="31" endPosition="39" />
+    <scopeInfo nodeId="7539613791621394097" fileName="JsonIO.java" startLine="39" startPosition="44" endLine="40" endPosition="73" />
+    <scopeInfo nodeId="7539613791621434260" fileName="JsonIO.java" startLine="54" startPosition="107" endLine="55" endPosition="27" />
+    <scopeInfo nodeId="7539613791621434441" fileName="JsonIO.java" startLine="65" startPosition="83" endLine="66" endPosition="23" />
+    <scopeInfo nodeId="7539613791621434451" fileName="JsonIO.java" startLine="71" startPosition="82" endLine="72" endPosition="22" />
+    <scopeInfo nodeId="7539613791621434461" fileName="JsonIO.java" startLine="77" startPosition="85" endLine="78" endPosition="76" />
+    <scopeInfo nodeId="7539613791621434504" fileName="JsonIO.java" startLine="83" startPosition="82" endLine="84" endPosition="18" />
+    <scopeInfo nodeId="7712758234141663548" fileName="JsonIO.java" startLine="96" startPosition="108" endLine="97" endPosition="27" />
+    <scopeInfo nodeId="7539613791621434894" fileName="JsonIO.java" startLine="107" startPosition="89" endLine="108" endPosition="21" />
+    <scopeInfo nodeId="7539613791621434910" fileName="JsonIO.java" startLine="113" startPosition="86" endLine="114" endPosition="73" />
+    <scopeInfo nodeId="7539613791621433352" fileName="JsonIO.java" startLine="121" startPosition="50" endLine="122" endPosition="90" />
+    <scopeInfo nodeId="7539613791621433529" fileName="JsonIO.java" startLine="170" startPosition="14" endLine="171" endPosition="102" />
+    <scopeInfo nodeId="7539613791621388868" fileName="JsonIO.java" startLine="26" startPosition="21" endLine="28" endPosition="3" />
+    <scopeInfo nodeId="7539613791621394084" fileName="JsonIO.java" startLine="34" startPosition="71" endLine="36" endPosition="58">
+      <varInfo nodeId="7539613791621394759" varName="jsonCode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="146" startPosition="35" endLine="148" endPosition="119" />
+    <scopeInfo nodeId="7539613791621433511" fileName="JsonIO.java" startLine="166" startPosition="33" endLine="169" endPosition="17">
+      <varInfo nodeId="7539613791621433513" varName="s" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433608" fileName="JsonIO.java" startLine="178" startPosition="9" endLine="181" endPosition="80">
+      <varInfo nodeId="7539613791621433615" varName="gson" />
+      <varInfo nodeId="7539613791621433620" varName="obj" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621388872" fileName="JsonIO.java" startLine="29" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="7539613791621394078" varName="node" />
+      <varInfo nodeId="7539613791621394076" varName="out" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621394094" fileName="JsonIO.java" startLine="38" startPosition="0" endLine="42" endPosition="0">
+      <varInfo nodeId="7539613791621394100" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434439" fileName="JsonIO.java" startLine="63" startPosition="5" endLine="67" endPosition="7">
+      <varInfo nodeId="7539613791621434439" varName="f" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434449" fileName="JsonIO.java" startLine="69" startPosition="5" endLine="73" endPosition="7">
+      <varInfo nodeId="7539613791621434449" varName="t" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434459" fileName="JsonIO.java" startLine="75" startPosition="5" endLine="79" endPosition="7">
+      <varInfo nodeId="7539613791621434459" varName="i" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434502" fileName="JsonIO.java" startLine="81" startPosition="5" endLine="85" endPosition="7">
+      <varInfo nodeId="7539613791621434502" varName="n" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434892" fileName="JsonIO.java" startLine="105" startPosition="5" endLine="109" endPosition="7">
+      <varInfo nodeId="7539613791621434892" varName="rn" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434908" fileName="JsonIO.java" startLine="111" startPosition="5" endLine="115" endPosition="7">
+      <varInfo nodeId="7539613791621434908" varName="str" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433461" fileName="JsonIO.java" startLine="155" startPosition="27" endLine="159" endPosition="10" />
+    <scopeInfo nodeId="7539613791621433634" fileName="JsonIO.java" startLine="182" startPosition="0" endLine="186" endPosition="67">
+      <varInfo nodeId="7539613791621433635" varName="ex" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433637" fileName="JsonIO.java" startLine="182" startPosition="28" endLine="186" endPosition="67">
+      <varInfo nodeId="7539613791621433643" varName="error" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621394081" fileName="JsonIO.java" startLine="33" startPosition="0" endLine="38" endPosition="0">
+      <varInfo nodeId="7539613791621394086" varName="in" />
+      <varInfo nodeId="7539613791621433693" varName="jsonFileNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="130" startPosition="36" endLine="135" endPosition="107">
+      <varInfo nodeId="7539613791621433386" varName="propNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433480" fileName="JsonIO.java" startLine="160" startPosition="33" endLine="165" endPosition="18">
+      <varInfo nodeId="7539613791621433488" varName="nn" />
+      <varInfo nodeId="7539613791621433482" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434168" fileName="JsonIO.java" startLine="51" startPosition="117" endLine="57" endPosition="26" />
+    <scopeInfo nodeId="7539613791621433434" fileName="JsonIO.java" startLine="143" startPosition="7" endLine="149" endPosition="9">
+      <varInfo nodeId="7539613791621433434" varName="item_it" />
+      <varInfo nodeId="7539613791621433434" varName="item_var" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621398643" fileName="JsonIO.java" startLine="190" startPosition="56" endLine="196" endPosition="15">
+      <varInfo nodeId="7539613791621398654" varName="res" />
+      <varInfo nodeId="7539613791621398645" varName="s" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434167" fileName="JsonIO.java" startLine="50" startPosition="25" endLine="58" endPosition="9">
+      <varInfo nodeId="7539613791621434170" varName="i" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434527" fileName="JsonIO.java" startLine="91" startPosition="118" endLine="99" endPosition="26" />
+    <scopeInfo nodeId="7539613791621433378" fileName="JsonIO.java" startLine="127" startPosition="7" endLine="136" endPosition="9">
+      <varInfo nodeId="7539613791621433378" varName="entry_it" />
+      <varInfo nodeId="7539613791621433378" varName="entry_var" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621398640" fileName="JsonIO.java" startLine="189" startPosition="0" endLine="198" endPosition="0">
+      <varInfo nodeId="7539613791621398666" varName="stream" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434526" fileName="JsonIO.java" startLine="90" startPosition="25" endLine="100" endPosition="9">
+      <varInfo nodeId="7539613791621434549" varName="i" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433277" fileName="JsonIO.java" startLine="177" startPosition="90" endLine="187" endPosition="5" />
+    <scopeInfo nodeId="7539613791621433751" fileName="JsonIO.java" startLine="49" startPosition="87" endLine="60" endPosition="29" />
+    <scopeInfo nodeId="7539613791621433421" fileName="JsonIO.java" startLine="140" startPosition="32" endLine="151" endPosition="18">
+      <varInfo nodeId="7539613791621433423" varName="arr" />
+      <varInfo nodeId="7539613791621433429" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434516" fileName="JsonIO.java" startLine="89" startPosition="86" endLine="102" endPosition="29" />
+    <scopeInfo nodeId="7539613791621433274" fileName="JsonIO.java" startLine="176" startPosition="0" endLine="189" endPosition="0">
+      <varInfo nodeId="7539613791621433330" varName="jsonCode" />
+      <varInfo nodeId="7539613791621433686" varName="jsonFileNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433749" fileName="JsonIO.java" startLine="47" startPosition="5" endLine="61" endPosition="7">
+      <varInfo nodeId="7539613791621433749" varName="array" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433365" fileName="JsonIO.java" startLine="124" startPosition="33" endLine="138" endPosition="18">
+      <varInfo nodeId="7539613791621433373" varName="node" />
+      <varInfo nodeId="7539613791621433367" varName="obj" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621434514" fileName="JsonIO.java" startLine="87" startPosition="5" endLine="103" endPosition="7">
+      <varInfo nodeId="7539613791621434514" varName="obj" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433453" fileName="JsonIO.java" startLine="153" startPosition="36" endLine="172" endPosition="7">
+      <varInfo nodeId="7539613791621433455" varName="pr" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433558" fileName="JsonIO.java" startLine="120" startPosition="59" endLine="174" endPosition="83" />
+    <scopeInfo nodeId="7539613791621433555" fileName="JsonIO.java" startLine="119" startPosition="0" endLine="176" endPosition="0">
+      <varInfo nodeId="7539613791621433563" varName="element" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433931" fileName="JsonIO.java" startLine="43" startPosition="63" endLine="117" endPosition="142">
+      <varInfo nodeId="7539613791621433756" varName="found" />
+      <varInfo nodeId="7712758234141631709" varName="moreIndent" />
+      <varInfo nodeId="7539613791621433985" varName="sb" />
+    </scopeInfo>
+    <scopeInfo nodeId="7539613791621433928" fileName="JsonIO.java" startLine="42" startPosition="0" endLine="119" endPosition="0">
+      <varInfo nodeId="7712758234141631636" varName="indent" />
+      <varInfo nodeId="7539613791621433936" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="7539613791621388866" fileName="JsonIO.java" startLine="26" startPosition="0" endLine="199" endPosition="0" unitName="JsonIntegration.stubs.JsonIO" />
+  </root>
+</debugInfo>
+
