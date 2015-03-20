@@ -1,0 +1,1 @@
+Implementation of JSON for Jetbrains Metaprogramming System (MPS). It permits to edit files in json format inside MPS.
